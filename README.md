@@ -1,3 +1,3 @@
 # P_Hello_World
 
-Randomized Unicode Hello World
+Randomized Ascii Hello World
